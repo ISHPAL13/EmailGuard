@@ -1,0 +1,1 @@
+This tool analyzes email content to classify messages as spam or not spam. It leverages natural language processing (NLP) techniques to clean, vectorize, and classify email text using machine learning algorithms. Ideal for training models on custom email datasets or integrating into email filtering systems.
